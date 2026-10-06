@@ -1,0 +1,51 @@
+# 키워드 뱅크 — IT정보 카테고리 (/setup-domain 으로 생성)
+# 시드 키워드는 사용자 입력, longtails / intent / priority 는 초안이므로 research.js 실측 후 갱신할 것.
+category: it-info
+last_updated: 2026-09-19
+
+keywords:
+  - keyword: "인터넷 속도 해결 3가지"
+    intent: how-to
+    funnel_stage: interest
+    priority: high
+    competition: unknown
+    suggested_pattern: null
+    longtails:
+      - "인터넷 속도 느림 해결"
+      - "인터넷 속도 빠르게 하는 법"
+    last_used: null
+    notes: ""
+
+  - keyword: "와이파이 끊김"
+    intent: how-to
+    funnel_stage: interest
+    priority: high
+    competition: unknown
+    suggested_pattern: null
+    longtails:
+      - "와이파이 자꾸 끊김 해결"
+      - "와이파이 연결 안됨"
+    last_used: null
+    notes: ""
+
+  - keyword: "공유기 설정"
+    intent: how-to
+    funnel_stage: interest
+    priority: medium
+    competition: unknown
+    suggested_pattern: null
+    longtails:
+      - "공유기 설정 방법"
+      - "공유기 초기화"
+    last_used: null
+    notes: "인터넷 속도 / 와이파이 끊김 글과 내부 링크 연계 가능"
+
+  - keyword: "윈도우 설정 방법"
+    intent: how-to
+    funnel_stage: awareness
+    priority: medium
+    competition: unknown
+    suggested_pattern: null
+    longtails: []
+    last_used: null
+    notes: "범위가 넓음. 구체 주제(예: 절전 모드, 디스플레이, 시작 프로그램 등)로 쪼개서 사용할 것. 확정 전 longtails 비워둠"

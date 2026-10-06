@@ -1,0 +1,44 @@
+# 키워드 뱅크 — 게임 카테고리 (/setup-domain 으로 생성)
+# 시드 키워드는 사용자 입력, longtails / intent / priority 는 초안이므로 research.js 실측 후 갱신할 것.
+category: game
+last_updated: 2026-09-19
+
+keywords:
+  - keyword: "GTA5 렉 안걸리게 하기"
+    intent: how-to
+    funnel_stage: interest
+    priority: high
+    competition: unknown
+    suggested_pattern: null
+    longtails:
+      - "GTA5 렉 줄이기"
+      - "GTA5 최적화 설정"
+      - "GTA5 프레임 올리기"
+    last_used: 2026-09-19
+    notes: ""
+
+  - keyword: "스타크래프트 유즈맵 추천 3가지 리뷰"
+    intent: comparison
+    funnel_stage: comparison
+    priority: high
+    competition: unknown
+    suggested_pattern: null
+    longtails:
+      - "스타크래프트 유즈맵 추천"
+      - "스타크래프트 리마스터 유즈맵"
+      - "스타크래프트 재밌는 유즈맵"
+    last_used: null
+    notes: "이미 작성한 '유즈맵 받는 방법' 글과 내부 링크 연계 가능 (외부 링크 아님)"
+
+  - keyword: "롤 렉 줄이기"
+    intent: how-to
+    funnel_stage: interest
+    priority: high
+    competition: unknown
+    suggested_pattern: null
+    longtails:
+      - "롤 렉 해결"
+      - "롤 프레임 드랍 해결"
+      - "롤 핑 줄이는 법"
+    last_used: null
+    notes: ""
